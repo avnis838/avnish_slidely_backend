@@ -14,4 +14,4 @@ This project is a simple form submission application with backend validation and
 First, clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+https://github.com/avnis838/avnish_slidely_backend.git
